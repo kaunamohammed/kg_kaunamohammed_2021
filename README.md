@@ -11,4 +11,4 @@
  ## Instructions
 
 - Make sure you're in the root directory of the project
-- run: go run main.go <arguments>. i.e go run main.go 3 25 209
+- run: go run main.go <command-line-arguments>. For example: go run main.go 3 25 209
